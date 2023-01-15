@@ -11,4 +11,4 @@
         // 4.变量的初始化
         var myName = '小猪佩奇';
         console.log(myName);
-    </script>
+</script>
